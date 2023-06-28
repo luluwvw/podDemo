@@ -1,0 +1,22 @@
+{
+  "name": "podDemo",
+  "version": "0.1.1",
+  "summary": "my podDemo",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/luluwvw/podDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "许丰炼": "xufl0459@hsyuntai.com"
+  },
+  "source": {
+    "git": "https://github.com/luluwvw/podDemo.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "podDemo/Classes/**/*"
+}
